@@ -1,5 +1,6 @@
-# DSC210 Course Project - Image Compression Using Singular Value Decompostion
-The code can be run 
+# DSC210 Course Project - Image Compression 
+## Course: DSC 210: Numerical Linear Algebra for Data Science
+## Instructor: Dr. Tsui-wei Weng
 
 ## Starting the service
 The code can be run from the python notebook as well as the python file. Both perform the same experiment, only difference being visualizations.
