@@ -8,6 +8,7 @@ Make sure all these libraries installed in the python3 environment:
 - numpy
 - opencv-python
 - Pillow
+- scikit-image
 - streamlit
 - streamlit-option-menu
 
