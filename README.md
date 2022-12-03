@@ -10,15 +10,18 @@ Streamlit has been used with the python file to visualize the levels of compress
 Streamlit is an open source app framework in Python language that helps us to create web apps. Refer https://docs.streamlit.io/library/get-started/create-an-app for more.
 
 ### From Jupyter notebook
-Open the notebook imagecompression.ipynb and run the cells in order.
+Open the notebook ***imagecompression.ipynb*** and run the cells in order.
 
 ### From python file
-Clone the repository, navigate to Image-Compression-Using-SVD and follow the command:
+Clone the repository, navigate to the project directory and run follow the commands:
+
+        >pip install -r requirements.txt
 
         >streamlit run file_name.py
 
 
 Sever will start on localhost.
+
 ## Experiment Results
 
 
