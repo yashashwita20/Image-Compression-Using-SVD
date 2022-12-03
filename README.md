@@ -25,7 +25,7 @@ Open the notebook *SVD and DCT.ipynb* and run all the cells in order.
 ### From python file
 Clone the repository, navigate to the project directory and run the following command:
 
-        >streamlit run file_name.py
+        > streamlit run file_name.py
 
 
 Sever will start on localhost.
