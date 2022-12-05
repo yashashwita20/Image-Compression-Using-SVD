@@ -19,3 +19,4 @@ You can use requirements.txt to install the libraries
 Open the notebook ***SVD and DCT.ipynb*** and run all the cells in order.
 
 ## Experiment Results
+![alt text](./Result Images/SVD Compression.png)
