@@ -19,5 +19,33 @@ You can use requirements.txt to install the libraries
 Open the notebook ***SVD and DCT.ipynb*** and run all the cells in order.
 
 ## Experiment Results
-![alt text](https://github.com/yashashwita20/Image-Compression-Using-SVD/tree/main/Result%20Images/SVD%20Compression.png?raw=True)
+### SVD Compression
+<p>
+    <img src="Result%20Images/SVD%20Compression.png"  />
+</p>
 
+### SVD Performance Metrics
+<p>
+    <img src="Result%20Images/SVD%20Metrics.png"  />
+</p>
+
+### DCT Compression
+<p>
+    <img src="Result%20Images/DCT%20Compression.png"  />
+</p>
+
+### DCT Performance Metrics
+<p>
+    <img src="Result%20Images/DCT%20Metrics.png"  />
+</p>
+
+### SVD vs DCT
+<p>
+    <img src="Result%20Images/SVD%20vs%20DCT.png"  />
+</p>
+
+### Average Performance Metrics on 100 4K Images
+#### SVD with K=30 and DCT with Threshold = 0.0032
+<p>
+    <img src="Result%20Images/Average%20Metric.png"  />
+</p>
