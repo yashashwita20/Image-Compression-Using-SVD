@@ -15,7 +15,7 @@ Make sure all these libraries installed in the python3 environment:
 
 You can use requirements.txt to install the libraries
 
-### From Jupyter notebook
+## Getting Started
 Open the notebook ***SVD and DCT.ipynb*** and run all the cells in order.
 
 ## Experiment Results
