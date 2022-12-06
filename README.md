@@ -45,7 +45,7 @@ Open the notebook ***SVD and DCT.ipynb*** and run all the cells in order.
 </p>
 
 ### Average Performance Metrics on 100 4K Images
-#### SVD with K=30 and DCT with Threshold = 0.0032
+#### SVD with K=30 and DCT with Threshold = 0.0050
 <p>
     <img src="Result%20Images/Average%20Metric.png"  />
 </p>
