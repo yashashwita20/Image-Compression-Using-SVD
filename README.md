@@ -1,6 +1,8 @@
 # Final Course Project - Image Compression 
 ### Course: DSC 210: Numerical Linear Algebra for Data Science
 ### Instructor: Dr. Tsui-wei Weng
+### Group number: 1
+### Group Members: Yashi Shukla, Shreya Reddy Pakala, Sagarika Sardesai, Sai Kaushik Soma
 
 ## Requirements
 Make sure all these libraries installed in the python3 environment:
